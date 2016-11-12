@@ -1,0 +1,37 @@
+body{
+	background: url("../images/JTjy2Of.jpg");
+	background-size: cover;
+	
+}
+
+h1{
+	text-align: center;
+
+}
+
+h2{
+	text-align: center;
+}
+
+.container{
+	/*background-color: pink;*/
+}
+
+#questions{
+	margin-top:5px;
+	padding-top: 5px;
+	
+}
+
+p{
+	text-align: center;
+	color:grey;
+
+	
+}
+
+#trueFalse {
+	margin-left: 50px;
+}
+
+
